@@ -8,5 +8,6 @@
   "pricing": "subscription",
   "price": { "regular": 39, "sale": 19.5, "currency": "USD" },
   "discount": 50,
+  "endDate": "2026-12-01",
   "icon": "https://quietwinners.com/apple-touch-icon.png"
 }
